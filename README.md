@@ -53,3 +53,7 @@ python -m http.server 4173
 The 18-second illustrated film uses the first 18 seconds of the canonical MIDI-derived preview. `film/video-manifest.json` records the source hash, excerpt, encoding and caption. Raster art is AI-generated illustration, not a photograph. Social captions and article are drafts. No human listening review is claimed.
 
 To regenerate media after rebuilding, preserve the source image and run `python tools/polish_release.py --root . --image art/illustration-source.png`. Pillow and FFmpeg are required.
+
+## Renderer metadata correction
+
+See [the correction receipt](RENDERER-METADATA-CORRECTION.md) for the documented signal-path update and original-tag boundary.

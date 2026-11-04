@@ -7,6 +7,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3670,
+      "sha256": "4e3ccb7254f8b769fb904e0f2879066fedadf7829eff15c3db7c92aa2c890b93"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -63,8 +73,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1568,
-      "sha256": "e1bc4b83f077a180f5723062d41aaec5d44527108eb770bae233c01f79131d66"
+      "bytes": 1790,
+      "sha256": "e678a259a36e06cf45a5e51f7bef8fbf4d7437dcda24c3fcea553e9fef8b7a35"
     },
     {
       "path": "catalog/release-spec.json",
@@ -103,8 +113,8 @@
     },
     {
       "path": "downloads/synth-pop-studies-midi.zip",
-      "bytes": 23873,
-      "sha256": "a950d786b2a3330bd4da3efe1a2326426f20fd595b823da172829688971b3daa"
+      "bytes": 24897,
+      "sha256": "b481552e6eb8021b98d4ef080e98344f9fb79f516a809ca910897d2fcbad6bfc"
     },
     {
       "path": "film/poster.jpg",
@@ -273,18 +283,13 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1045,
-      "sha256": "82df30bfd37bd37d7d79e972d31cc2dfb17183c193de09373c1ae4ebdb6098c1"
+      "bytes": 1128,
+      "sha256": "79d8df9e96b7c0b277fb524d42f6a531e5f3a3ad7214815964b9d0d2e9b719ac"
     },
     {
       "path": "preview/synth-pop-studies-simple-synth-preview.mp3",
       "bytes": 1659551,
       "sha256": "3f46bfa89661db68c06b9e975701305b9cb4572a4a89b34cb0a8cf4ab561f9f2"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3509,
-      "sha256": "c5baec49dbf103f3e140bfdc74de03d686f120887b4498f47efba11f60cae8c8"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -313,13 +318,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 59060,
-      "sha256": "861349c82200b232d31e67255e5c3f2df3a6d07d478168712163224db1bb785b"
+      "bytes": 59237,
+      "sha256": "4f287a942b42d24d0fdad95868f2b08cf1ef059a4f9c63d5882a461c5dc6efe7"
     },
     {
       "path": "tools/polish_release.py",

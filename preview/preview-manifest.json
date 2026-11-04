@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/synth-pop-studies-simple-synth-preview.mp3",
+  "preview_sha256": "3f46bfa89661db68c06b9e975701305b9cb4572a4a89b34cb0a8cf4ab561f9f2",
+  "source_midi_path": "midi/sp01-new-window/sp01-new-window-combined.mid",
+  "source_midi_sha256": "9c5c11a39dbf1e1cda2f4e56d6a40530f3c148245a93635332359b73a47161db",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "sp01",
+    "start_seconds": 0,
+    "end_seconds": 68.571
+  },
+  "measurement": {
+    "sample_peak": 0.128207,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

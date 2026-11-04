@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/synth-pop-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "3f46bfa89661db68c06b9e975701305b9cb4572a4a89b34cb0a8cf4ab561f9f2",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "688b26e365676fcfd095cc98aa09e93a349ca928610767a69d3994588253b8fd",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}

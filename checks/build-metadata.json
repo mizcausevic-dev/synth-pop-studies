@@ -1,0 +1,11 @@
+{
+  "generator_version": "release-train-1.0.0",
+  "pack": "synth-pop-studies",
+  "source_builder_sha256": "861349c82200b232d31e67255e5c3f2df3a6d07d478168712163224db1bb785b",
+  "commands": [
+    "python tools/build_release.py --pack synth-pop-studies",
+    "python tools/validate_release.py"
+  ],
+  "run_time_utc": "2026-11-04T19:10:07.183489+00:00",
+  "python": "3.14.0"
+}

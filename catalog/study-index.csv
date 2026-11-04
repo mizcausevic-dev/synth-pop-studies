@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+sp01,New Window,pack-local equal-tempered pitch collection,C,112,4/4,480,32,61440,midi/sp01-new-window/sp01-new-window-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+sp02,Bright Lines,pack-local equal-tempered pitch collection,D#,112,4/4,480,32,61440,midi/sp02-bright-lines/sp02-bright-lines-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+sp03,Colour Signal,pack-local equal-tempered pitch collection,F#,112,4/4,480,32,61440,midi/sp03-colour-signal/sp03-colour-signal-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+sp04,Open Door,pack-local equal-tempered pitch collection,C#,112,4/4,480,32,61440,midi/sp04-open-door/sp04-open-door-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

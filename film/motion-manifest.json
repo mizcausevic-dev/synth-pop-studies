@@ -1,0 +1,26 @@
+{
+  "title": "Synth Pop",
+  "study": "sp01",
+  "bpm": 112,
+  "source_audio": "preview/synth-pop-studies-simple-synth-preview.mp3",
+  "source_audio_sha256": "3f46bfa89661db68c06b9e975701305b9cb4572a4a89b34cb0a8cf4ab561f9f2",
+  "source_midi": "midi/sp01-new-window/sp01-new-window-combined.mid",
+  "source_midi_sha256": "9c5c11a39dbf1e1cda2f4e56d6a40530f3c148245a93635332359b73a47161db",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "3520ce1baf9904eeccef78f858606960b9cc43fca79be1c7c3553f8a0d4b7787",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "aa64afe79b2e6d4bdfd59aed21de304b4c296007a462038c71f6295443a8da15",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "e288eb3dc75846cd892bc913da8d812b5209b94c1fe98ad855365f89ead6d411",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

@@ -7,21 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 779,
-      "sha256": "ca4594f4ab8c87bd9e757e8ad1a13abd566b7af08cee086c816caec6ed70e68c"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3670,
-      "sha256": "4e3ccb7254f8b769fb904e0f2879066fedadf7829eff15c3db7c92aa2c890b93"
-    },
-    {
-      "path": "RENDERER-METADATA-CORRECTION.md",
-      "bytes": 753,
-      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -118,8 +103,8 @@
     },
     {
       "path": "downloads/synth-pop-studies-midi.zip",
-      "bytes": 24897,
-      "sha256": "b481552e6eb8021b98d4ef080e98344f9fb79f516a809ca910897d2fcbad6bfc"
+      "bytes": 25884,
+      "sha256": "106e8463e47a90883fa579131f9b9d292067874ac5108d4c77f5a9204b885e25"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -140,11 +125,6 @@
       "path": "film/motion-overlay.png",
       "bytes": 31089,
       "sha256": "da4d18dbc4a76d4f13687c61584d0dc191af6cd891881186cb7cafaf768b7325"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 938551,
-      "sha256": "e288eb3dc75846cd892bc913da8d812b5209b94c1fe98ad855365f89ead6d411"
     },
     {
       "path": "film/motion-preview.vtt",
@@ -173,8 +153,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9261,
-      "sha256": "d189dde6e9f90d66761280fc1ddab0af5e36044ba64c0de5d818a9044e3d15a2"
+      "bytes": 9451,
+      "sha256": "1449eb19c87d1d490b38a90a67b68a947b16a2e25680f5de2dfdc7e12a79c0f9"
     },
     {
       "path": "midi/sp01-new-window/chord_pulse.mid",
@@ -317,6 +297,16 @@
       "sha256": "9882dc3bed68f659874188026b7c8421db83681608fbef2a7f2f75407503aab2"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 779,
+      "sha256": "ca4594f4ab8c87bd9e757e8ad1a13abd566b7af08cee086c816caec6ed70e68c"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1128,
       "sha256": "79d8df9e96b7c0b277fb524d42f6a531e5f3a3ad7214815964b9d0d2e9b719ac"
@@ -325,6 +315,16 @@
       "path": "preview/synth-pop-studies-simple-synth-preview.mp3",
       "bytes": 1659551,
       "sha256": "3f46bfa89661db68c06b9e975701305b9cb4572a4a89b34cb0a8cf4ab561f9f2"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3785,
+      "sha256": "edb4e98dd421622f7e78f227efcc8b48a366d8d6631b1b1377df84e995477166"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
     },
     {
       "path": "social/instagram/caption.txt",
